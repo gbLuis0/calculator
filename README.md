@@ -6,19 +6,19 @@ Uma alculadora simples feita em python
 
 ## Início 💻
 
-´´´bash
+```bash
 apt-get update
 apt-get upgrade -y
 apt-get install python git
 git clone https://github.com/Spyware0/calculator
-´´´
+```
 
 ## Execução 📂
 
-´´´bash
+```bash
 cd calculator
 python main.py
-´´´
+```
 
 Para mais informações, acesse meu [Whatsapp](http://wa.me/559885267746)!
 
