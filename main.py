@@ -47,7 +47,11 @@ while True:
                     continue
                 if equacao == '': continue
                 if 'fim' in equacao: break
-                print(f'{n}{equacao} = {verd}{calcu(equacao)}{f}')
+                try:
+                    resu = calcu(equacao)
+                except:
+                    continue
+                print(f'{n}{equacao} = {verd}{resu}{f}')
                 ent()
 
         case '2':
