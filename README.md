@@ -5,6 +5,7 @@ Uma alculadora simples feita em python
 > CMD, PowerShell, Bash ✔️
 
 ## Início 💻
+
 ´´´bash
 apt-get update
 apt-get upgrade -y
@@ -13,6 +14,7 @@ git clone https://github.com/Spyware0/calculator
 ´´´
 
 ## Execução 📂
+
 ´´´bash
 cd calculator
 python main.py
