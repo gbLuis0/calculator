@@ -61,7 +61,7 @@ while True:
     {verd}-{n} = {l}subtração{f}
     {verd}x{n} ou {verd}*{n} = {l}multiplicação{f}
     {verd}**{n} ou {verd}^{n} = {l}potenciação{f}
-    {verd}/{n} = {l}divisão{f}
+    {verd}/{n} ou {verd}÷{n} = {l}divisão{f}
     {verd}//{n} = {l}divisão inteira{f} {n}({amar}o valor será a parte inteira da divisão{n})
     {verd}%{n} = {l}resto da divisão{f} {n}({amar}o valor será o resto da divisão{n})
     {verd}(){n} = {l}parênteses para o cálculo começar primeiro{f}''')
