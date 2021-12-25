@@ -26,6 +26,7 @@ def calcu(eq=''):
     if '}' in eq: eq = eq.replace('}', ')')
     if '[' in eq: eq = eq.replace('[', '(')
     if ']' in eq: eq = eq.replace(']', ')')
+    if '÷' in eq: eq = eq.replace('÷', '/')
     return eval(eq)
 
 cores = verd, azul, amar
